@@ -15,7 +15,7 @@ const MovieList = ({ input }) => {
           ))}
         </div>
       ) : (
-        <p>Movie does not exist."</p>
+        <p>Movie does not exist.</p>
       )}
     </>
   );
